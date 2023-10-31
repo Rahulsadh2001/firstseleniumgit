@@ -26,7 +26,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Basicproject {
 	public static WebDriver driver;
-	
+	//comment
 	@Test()
 	public  void luanching() throws InterruptedException {
 	
